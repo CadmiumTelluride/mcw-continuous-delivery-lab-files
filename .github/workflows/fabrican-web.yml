@@ -17,9 +17,9 @@ on:
 
 env:
   # Use docker.io for Docker Hub if empty
-  REGISTRY: ghcr.io
+  REGISTRY: docker.pkg.github.com/cadmiumtelluride/mcw-continuous-delivery-lab-files
   # github.repository as <account>/<repo>
-  IMAGE_NAME: docker.pkg.github.com/cadmiumtelluride/mcw-continuous-delivery-lab-files
+  IMAGE_NAME: fabrikam-init
 
 
 
